@@ -1,7 +1,8 @@
 # Flood mapping using Geemap in Python - Porto Alegre, Brazil
 Using Sentinel 2 satellite imagery to derive the Modified Normalized Difference Water Index (MNDWI) that enabled the delineation of inundated areas in Porto Alegre, Brazil during the El Nino season of 2024.
 
-- Data
+- Data:
+  
     To tackle this flood mapping challenge, I harnessed the power of several key datasets and tools:
 
       1. Sentinel-2 Imagery:
@@ -19,13 +20,15 @@ Using Sentinel 2 satellite imagery to derive the Modified Normalized Difference 
     By combining these powerful datasets and tools, we were able to create a comprehensive picture of the 2024 El Niño floods in Porto Alegre.
 
 
-- Methodology
+- Methodology:
+  
     Here's an overview of the methodology:
 
   ![methodology](https://github.com/user-attachments/assets/7664fefc-fcfe-4231-b569-b2a075704138)
 
 
-- Results
+- Results:
+  
     The results obtained were in form of maps depicting:
     1. Porto Alegre before the flood
         ![beforeflood1](https://github.com/user-attachments/assets/cf85fef6-c5d1-4984-9375-546ae35f5701)
